@@ -18,7 +18,6 @@ This is a responsive, visually rich **frontend clone of Netflix**, designed to r
 
 * **HTML5** – Semantic structure
 * **CSS3** – Flexbox, Grid, Animations, Media Queries
-* **JavaScript** – DOM manipulation, Slider logic, Data mocking (optional)
 * **Assets** – Netflix-like thumbnails, icons, and fonts
 
 ---
@@ -53,10 +52,10 @@ netflix-clone/
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/7064bcae-b0bd-42e1-b6e6-1d3e88e3f2ff)
 
 ![image](https://github.com/user-attachments/assets/329418a8-e4ef-4a9a-aa11-3651b7aab853)
 
+![image](https://github.com/user-attachments/assets/7064bcae-b0bd-42e1-b6e6-1d3e88e3f2ff)
 
 ---
 
